@@ -1,3 +1,3 @@
 # my-repository
 my repo
-This is myt first-repository.
+this is my first-repository.
